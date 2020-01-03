@@ -3,14 +3,14 @@
 
 Useage:
 
-In your hugo site root, create Dir `./assets/css/` and copy *.css into.
+1. In your hugo site root, create Dir `./assets/css/` and copy *.css into.
 
-Edit `config.toml`:
+2. Edit `config.toml`
 
-```toml
-[params]
-css = ["css/light.css", "css/dark.css"]
-```
+    ```toml
+    [params]
+    css = ["css/light.css", "css/dark.css"]
+    ```
 
 Note, dark style **MUST** at the last.
 
