@@ -12,8 +12,15 @@ a { color: #0088cc; }
 .article.markdown-body h5,
 .article.markdown-body h6 {  }
 
-.article.markdown-body code { color: #666; background-color: transparent; }
-.article.markdown-body pre>code { color: inherit; background-color: inherit; }
+code,
+kbd,
+tt,
+samp { color: #666; background-color: transparent; }
+
+pre>code,
+pre>kbd,
+pre>tt,
+pre>samp { color: inherit; background-color: inherit; }
 
 .site.name {  }
 
