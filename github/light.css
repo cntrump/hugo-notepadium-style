@@ -1,0 +1,40 @@
+
+body { color: #24292e; }
+
+a { color: #0366d6; }
+
+.article.markdown-body h1,
+.article.markdown-body h2,
+.article.markdown-body h3,
+.article.markdown-body h4,
+.article.markdown-body h5,
+.article.markdown-body h6 {  }
+
+.article.markdown-body code { color: #24292e; background-color: rgba(27,31,35,.05); }
+.article.markdown-body pre>code { color: inherit; background-color: inherit; }
+
+.site.name {  }
+
+.nav.item { color: #24292e; }
+
+.site.slogan .title { color: #586069; }
+
+.article.title { }
+
+.article.date { color: #586069; }
+
+.article.tag {  }
+
+.article.category {  }
+
+.article.navigation .link { }
+
+.note.title {  }
+
+.note.date { color: #586069; }
+
+.note.content { color: #586069; }
+
+.note.tag {  }
+
+.note.category {  }
