@@ -1,0 +1,36 @@
+body { color: #303033; }
+
+.article.markdown-body h1,
+.article.markdown-body h2,
+.article.markdown-body h3,
+.article.markdown-body h4,
+.article.markdown-body h5,
+.article.markdown-body h6 { color: #303033; }
+
+.article.markdown-body { color: #838387 }
+
+.site.name { color: #303033; }
+
+.nav.item {  }
+
+.site.slogan .title { color: #838387 }
+
+.article.title { color: #303033; }
+
+.article.date { color: #838387 }
+
+.article.tag {  }
+
+.article.category {  }
+
+.article.navigation .link { color: #303033; }
+
+.note.title { color: #303033; }
+
+.note.date { color: #838387 }
+
+.note.content { color: #838387 }
+
+.note.tag {  }
+
+.note.category {  }

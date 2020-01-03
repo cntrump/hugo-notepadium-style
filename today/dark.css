@@ -1,0 +1,36 @@
+body { color: #ebebf5; }
+
+.article.markdown-body h1,
+.article.markdown-body h2,
+.article.markdown-body h3,
+.article.markdown-body h4,
+.article.markdown-body h5,
+.article.markdown-body h6 { color: #ebebf5; }
+
+.article.markdown-body { color: rgba(235, 235, 245, .6) }
+
+.site.name { color: #ebebf5; }
+
+.nav.item {  }
+
+.site.slogan .title { color: rgba(235, 235, 245, .6) }
+
+.article.title { color: #ebebf5; }
+
+.article.date { color: rgba(235, 235, 245, .6) }
+
+.article.tag {  }
+
+.article.category {  }
+
+.article.navigation .link { color: #ebebf5; }
+
+.note.title { color: #ebebf5; }
+
+.note.date { color: rgba(235, 235, 245, .6) }
+
+.note.content { color: rgba(235, 235, 245, .6) }
+
+.note.tag {  }
+
+.note.category {  }
