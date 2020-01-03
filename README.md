@@ -1,5 +1,5 @@
 
-# CSS styles for hugo-notepadium theme
+# CSS styles for [hugo-notepadium theme](https://github.com/cntrump/hugo-notepadium)
 
 Useage:
 
