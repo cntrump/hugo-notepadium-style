@@ -1,0 +1,45 @@
+@media (prefers-color-scheme: dark) {
+
+body { color: #fff; background-color: #24292e; }
+
+body
+b,
+strong,
+.article.markdown-body h1,
+.article.markdown-body h2,
+.article.markdown-body h3,
+.article.markdown-body h4,
+.article.markdown-body h5,
+.article.markdown-body h6 { color: #fff; }
+
+.article.markdown-body { color: rgba(255, 255, 255, .9); }
+.article.markdown-body code { color: #fff; background-color: #515b70; }
+.article.markdown-body pre>code { color: inherit; background-color: inherit; }
+
+.site.name { color: #fff; }
+
+.nav.item { color: #fff; }
+
+.site.slogan .title { color: #fff }
+
+.article.title { color: #fff; }
+
+.article.date { color: rgba(235, 235, 245, .6) }
+
+.article.tag {  }
+
+.article.category {  }
+
+.article.navigation .link { color: #fff; }
+
+.note.title { }
+
+.note.date { color: rgba(235, 235, 245, .6) }
+
+.note.content { color: rgba(235, 235, 245, .6) }
+
+.note.tag {  }
+
+.note.category {  }
+
+}
