@@ -1,0 +1,47 @@
+@media (prefers-color-scheme: dark) {
+
+body { color: #ccc; background-color: #333; }
+
+a { color: #0088cc; }
+
+body
+b,
+strong,
+.article.markdown-body h1,
+.article.markdown-body h2,
+.article.markdown-body h3,
+.article.markdown-body h4,
+.article.markdown-body h5,
+.article.markdown-body h6 { color: #fff; }
+
+.article.markdown-body { }
+.article.markdown-body code { color: #aaa; background-color: transparent; }
+.article.markdown-body pre>code { color: inherit; background-color: inherit; }
+
+.site.name { color: #fff; }
+
+.nav.item { color: #fff; }
+
+.site.slogan .title { }
+
+.article.title { color: #fff; }
+
+.article.date { color: #666 }
+
+.article.tag {  }
+
+.article.category {  }
+
+.article.navigation .link { color: #0088cc; font-weight: 400; }
+
+.note.title { }
+
+.note.date { color: #666 }
+
+.note.content { color: #ccc; }
+
+.note.tag {  }
+
+.note.category {  }
+
+}

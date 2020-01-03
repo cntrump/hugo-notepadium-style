@@ -1,0 +1,42 @@
+
+body,
+b,
+strong { color: #333; }
+
+a { color: #0088cc; }
+
+.article.markdown-body h1,
+.article.markdown-body h2,
+.article.markdown-body h3,
+.article.markdown-body h4,
+.article.markdown-body h5,
+.article.markdown-body h6 {  }
+
+.article.markdown-body code { color: #666; background-color: transparent; }
+.article.markdown-body pre>code { color: inherit; background-color: inherit; }
+
+.site.name {  }
+
+.nav.item { color: #333; }
+
+.site.slogan .title { color: #aaa; }
+
+.article.title { }
+
+.article.date { color: #aaa; }
+
+.article.tag {  }
+
+.article.category {  }
+
+.article.navigation .link { color: #0088cc; font-weight: 400;}
+
+.note.title {  }
+
+.note.date { color: #aaa; }
+
+.note.content { color: #333; }
+
+.note.tag {  }
+
+.note.category {  }
