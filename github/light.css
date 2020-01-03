@@ -1,5 +1,7 @@
 
-body { color: #24292e; }
+body,
+b,
+strong { color: #24292e; }
 
 a { color: #0366d6; }
 
