@@ -1,0 +1,19 @@
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #fff;
+    background-color: #15202b;
+  }
+
+  a,
+  .nav.item,
+  .tag {
+    color: #1da1f2;;
+  }
+
+  .site.slogan,
+  .article.date,
+  .note.date,
+  .note.content {
+    color: #8899a6;;
+  }
+}
