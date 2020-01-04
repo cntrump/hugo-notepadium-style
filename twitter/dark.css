@@ -16,4 +16,6 @@
   .note.content {
     color: #8899a6;;
   }
+
+  .article.markdown-body { color: #fff; }
 }
