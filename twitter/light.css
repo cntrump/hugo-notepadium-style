@@ -1,19 +1,21 @@
 body {
-    color: #14171a;
-    background-color: #fff;
+  color: #14171a;
+  background-color: #fff;
 }
 
 a,
 .nav.item,
-.tag { color: #1b95e0; }
+.tag {
+  color: #1b95e0;
+}
 
 .site.slogan,
 .article.date,
-.note.date,
-.note.content {
+.note.date {
   color: #657786;
 }
 
+.note.content,
 .article.markdown-body {
   color: #14171a;
 }

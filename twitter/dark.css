@@ -7,15 +7,17 @@
   a,
   .nav.item,
   .tag {
-    color: #1da1f2;;
+    color: #1da1f2;
   }
 
   .site.slogan,
   .article.date,
-  .note.date,
-  .note.content {
-    color: #8899a6;;
+  .note.date {
+    color: #8899a6;
   }
 
-  .article.markdown-body { color: #fff; }
+  .note.content,
+  .article.markdown-body {
+    color: #fff;
+  }
 }
