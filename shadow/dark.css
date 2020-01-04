@@ -1,0 +1,13 @@
+@media (prefers-color-scheme: dark) {
+
+body { background-color: #222; }
+
+.base-body {
+    color: #fff;
+    background-color: #24292e;
+    padding: 8px 0;
+    border-radius: 8px;
+    box-shadow: rgba(220, 220, 220, .15) 0 10px 30px;
+}
+
+}
