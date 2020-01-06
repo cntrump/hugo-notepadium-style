@@ -1,0 +1,18 @@
+.note.list .item>.note,
+.article.markdown-body pre,
+.article.markdown-body .image-container {
+    margin-left: -20px;
+    margin-right: -20px;
+}
+
+.note.list .item>.note,
+.article.markdown-body pre {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.article.markdown-body pre,
+.article.markdown-body .image-container .img {
+    border: 0;
+    border-radius: 0;
+}
