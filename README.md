@@ -8,7 +8,7 @@ Useage:
 2. Edit `config.toml`
 
     ```toml
-    [params]
+    [params.assets]
     css = ["css/light.css", "css/dark.css"]
     ```
 
